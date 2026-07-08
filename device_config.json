@@ -1,0 +1,7 @@
+{
+  "_comment": "Editeaza ip_aparat cu adresa reala a aparatului CAEN (IP-ul de pe Ethernet). refresh_url poate ramane null - se calculeaza automat ca http://<ip_aparat>/. restart_interval_hours = la cate ore isi da restart COMPLET pagina/browserul (refresh_page1.py). Prima data se face restart mereu la pornirea scriptului.",
+  "ip_aparat": "localhost",
+  "refresh_url": null,
+  "refresh_headless": false,
+  "restart_interval_hours": 2
+}

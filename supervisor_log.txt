@@ -1,0 +1,27 @@
+[2026-07-08 12:31:54] Am creat d:\Numarator_Toate_Variantele\ULTIMA VARIANATA\device_config.json cu valori implicite. EDITEAZA 'ip_aparat' cu adresa reala a aparatului CAEN cand esti conectat la el!
+[2026-07-08 12:31:54] Supervisor pornit. Restart-uri totale pana acum: aplicatie=0, refresh=0.
+[2026-07-08 12:31:54] [Script refresh] Pornesc: d:\Numarator_Toate_Variantele\ULTIMA VARIANATA\refresh_page1.py
+[2026-07-08 12:31:54] [Aplicatie principala] Pornesc: d:\Numarator_Toate_Variantele\ULTIMA VARIANATA\caen_monitor_v5_5_optimized.py
+[2026-07-08 12:32:23] [Aplicatie principala] S-a oprit (cod: 0) dupa 29s.
+[2026-07-08 12:32:23] [Aplicatie principala] Repornesc in 5s... (total restart-uri: 1)
+[2026-07-08 12:32:28] [Aplicatie principala] Pornesc: d:\Numarator_Toate_Variantele\ULTIMA VARIANATA\caen_monitor_v5_5_optimized.py
+[2026-07-08 12:32:32] [Aplicatie principala] S-a oprit (cod: 0) dupa 4s.
+[2026-07-08 12:32:32] [Aplicatie principala] Repornesc in 5s... (total restart-uri: 2)
+[2026-07-08 12:42:35] Supervisor pornit. Restart-uri totale pana acum: aplicatie=2, refresh=0.
+[2026-07-08 12:42:35] [Script refresh] Pornesc: d:\Numarator_Toate_Variantele\ULTIMA VARIANATA\refresh_page1.py
+[2026-07-08 12:42:35] [Aplicatie principala] Pornesc: d:\Numarator_Toate_Variantele\ULTIMA VARIANATA\caen_monitor_v5_5_optimized.py
+[2026-07-08 12:42:56] [Script refresh] S-a oprit (cod: 0) dupa 21s.
+[2026-07-08 12:42:56] [Script refresh] Repornesc in 5s... (total restart-uri: 1)
+[2026-07-08 12:43:01] [Script refresh] Pornesc: d:\Numarator_Toate_Variantele\ULTIMA VARIANATA\refresh_page1.py
+[2026-07-08 12:43:24] [Script refresh] S-a oprit (cod: 0) dupa 23s.
+[2026-07-08 12:43:24] [Script refresh] Repornesc in 5s... (total restart-uri: 2)
+[2026-07-08 12:43:29] [Script refresh] Pornesc: d:\Numarator_Toate_Variantele\ULTIMA VARIANATA\refresh_page1.py
+[2026-07-08 12:44:30] Supervisor pornit. Restart-uri totale pana acum: aplicatie=2, refresh=2.
+[2026-07-08 12:44:30] [Script refresh] Pornesc: d:\Numarator_Toate_Variantele\ULTIMA VARIANATA\refresh_page1.py
+[2026-07-08 12:44:30] [Aplicatie principala] Pornesc: d:\Numarator_Toate_Variantele\ULTIMA VARIANATA\caen_monitor_v6_optimized.py
+[2026-07-08 12:44:54] [Script refresh] S-a oprit (cod: 0) dupa 24s.
+[2026-07-08 12:44:54] [Script refresh] Repornesc in 5s... (total restart-uri: 3)
+[2026-07-08 12:44:59] [Script refresh] Pornesc: d:\Numarator_Toate_Variantele\ULTIMA VARIANATA\refresh_page1.py
+[2026-07-08 12:45:27] [Script refresh] S-a oprit (cod: 0) dupa 28s.
+[2026-07-08 12:45:27] [Script refresh] Repornesc in 5s... (total restart-uri: 4)
+[2026-07-08 12:45:33] [Script refresh] Pornesc: d:\Numarator_Toate_Variantele\ULTIMA VARIANATA\refresh_page1.py
