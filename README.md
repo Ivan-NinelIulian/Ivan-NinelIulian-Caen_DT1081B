@@ -1,6 +1,4 @@
 # Ivan-NinelIulian-Caen_DT1081B
-Iată o descriere tehnică detaliată a întregii arhitecturi software a proiectului **CAEN Monitor & Automated Supervisor**.
-
 Sistemul a fost conceput ca o aplicație industrială de tip **24/7/365 (High Availability)**, proiectată să funcționeze luni de zile fără intervenție umană. Acesta rezolvă problemele clasice ale automatizărilor web (blocaje Selenium, pierderi de memorie, deconectări de rețea, crash-uri silențioase ale browserului sau instabilități ale protocolului WebSocket).
 
 ---
